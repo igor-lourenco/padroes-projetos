@@ -1,4 +1,4 @@
-package com.categoria.criacionais._2_builder._1_antes.modelos;
+package com.categoria.criacionais._2_builder._1_depois.modelos;
 
 import java.math.BigDecimal;
 import java.util.List;
