@@ -1,7 +1,7 @@
-package com.categoria.estruturais._1_decorator._1_antes.service;
+package com.categoria.estruturais._2_decorator._1_depois.service;
 
-import com.categoria.estruturais._1_decorator._1_antes.modelo.CartaoCredito;
-import com.categoria.estruturais._1_decorator._1_antes.modelo.Cliente;
+import com.categoria.estruturais._2_decorator._1_depois.modelo.CartaoCredito;
+import com.categoria.estruturais._2_decorator._1_depois.modelo.Cliente;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

@@ -1,10 +1,10 @@
-package com.categoria.estruturais._1_decorator._1_depois;
+package com.categoria.estruturais._2_decorator._1_depois;
 
-import com.categoria.estruturais._1_decorator._1_depois.modelo.CartaoCredito;
-import com.categoria.estruturais._1_decorator._1_depois.modelo.Cliente;
-import com.categoria.estruturais._1_decorator._1_depois.service.AnalisadorDeRisco;
-import com.categoria.estruturais._1_decorator._1_depois.service.AutorizadorCartaoCredito;
-import com.categoria.estruturais._1_decorator._1_depois.service.AutorizadorCielo;
+import com.categoria.estruturais._2_decorator._1_depois.modelo.CartaoCredito;
+import com.categoria.estruturais._2_decorator._1_depois.modelo.Cliente;
+import com.categoria.estruturais._2_decorator._1_depois.service.AnalisadorDeRisco;
+import com.categoria.estruturais._2_decorator._1_depois.service.AutorizadorCartaoCredito;
+import com.categoria.estruturais._2_decorator._1_depois.service.AutorizadorCielo;
 
 import java.time.YearMonth;
 import java.util.Scanner;

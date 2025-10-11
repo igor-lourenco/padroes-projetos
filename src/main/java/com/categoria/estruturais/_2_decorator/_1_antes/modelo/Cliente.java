@@ -1,4 +1,4 @@
-package com.categoria.estruturais._1_decorator._1_antes.modelo;
+package com.categoria.estruturais._2_decorator._1_antes.modelo;
 
 public class Cliente {
 

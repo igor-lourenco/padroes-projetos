@@ -1,4 +1,4 @@
-package com.categoria.estruturais._1_decorator._1_depois.modelo;
+package com.categoria.estruturais._2_decorator._1_antes.modelo;
 
 import java.time.YearMonth;
 

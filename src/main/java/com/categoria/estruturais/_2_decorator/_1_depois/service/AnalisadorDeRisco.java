@@ -1,8 +1,8 @@
-package com.categoria.estruturais._1_decorator._1_depois.service;
+package com.categoria.estruturais._2_decorator._1_depois.service;
 
-import com.categoria.estruturais._1_decorator._1_depois.exceptions.RiscoCreditoException;
-import com.categoria.estruturais._1_decorator._1_depois.modelo.CartaoCredito;
-import com.categoria.estruturais._1_decorator._1_depois.modelo.Cliente;
+import com.categoria.estruturais._2_decorator._1_depois.exceptions.RiscoCreditoException;
+import com.categoria.estruturais._2_decorator._1_depois.modelo.CartaoCredito;
+import com.categoria.estruturais._2_decorator._1_depois.modelo.Cliente;
 
 import java.time.YearMonth;
 

@@ -1,4 +1,4 @@
-package com.categoria.estruturais._1_decorator._1_depois.exceptions;
+package com.categoria.estruturais._2_decorator._1_depois.exceptions;
 
 public class RiscoCreditoException extends RuntimeException {
 
